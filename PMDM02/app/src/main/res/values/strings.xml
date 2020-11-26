@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PMDM02</string>
+    <string name="heading">Calculadora de números primos</string>
+    <string name="paragraph">Introduce el número primero que te gustaría calcular. Por ejemplo, si deseas saber el sexto número primo, pon el número 6 y pincha sobre calcular. </string>
+    <string name="position">Position</string>
+    <string name="buttonText">Calcular!</string>
+</resources>
