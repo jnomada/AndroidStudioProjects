@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">PMDM_2020_2021</string>
+    <string name="replacement_text">Este texto reemplaza el anterior</string>
+    <string name="goFish">Go fish!</string>
+    <string name="superlongtext">This is a super long text, well not actually!</string>
+    <string name="action_settings">Settings</string>
+    <string name="idioma">Esta aplicación, por defecto, está en galego!</string>
+    <string name="boton">Preme aquí</string>
+    <string name="mensaxe_toast">Premeches o botón!</string>
 </resources>

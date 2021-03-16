@@ -6,4 +6,5 @@
     android:layout_height="match_parent"
     tools:context=".tiposactivities.U2_U1_helloWorldVersion2">
 
+
 </androidx.constraintlayout.widget.ConstraintLayout>

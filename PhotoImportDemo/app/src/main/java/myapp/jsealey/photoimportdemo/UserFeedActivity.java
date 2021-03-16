@@ -27,6 +27,6 @@ public class UserFeedActivity extends AppCompatActivity {
         ));
 
         // Add an image to the ImageView
-        imageView.setImageDrawable(getResources().getDrawable(R.drawable.));
+        imageView.setImageDrawable(getResources().getDrawable(R.drawable.ic_launcher_background));
     }
 }

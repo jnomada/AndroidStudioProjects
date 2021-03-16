@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PMDP03_TEACHER_JAMES</string>
+    <string name="action_settings">Configuración</string>
+    <string name="text_clear">Limpiar</string>
+    <string name="text_button">Añadir / Limpiar</string>
+    <string name="text_label">Aquí es donde verá el texto que escribe</string>
+    <string name="text_hint">Escribe algun texto y pulse el botón</string>
+    <string name="text_red">Rojo</string>
+    <string name="text_blue">Azul</string>
+    <string name="text_start">Iniciar</string>
+    <string name="text_stop">Parar</string>
+    <string name="text_toast_gal">Ha elegido una provincia de Galicia</string>
+    <string name="text_toast_no_gal">No ha elegido una provincia Gallega</string>
+    <string name="Imaxe">Imágen</string>
+    <string name="text_image">Corcubion, pueblo pesquero ubicado en la Costa da Morte, Galicia </string>
+</resources>
